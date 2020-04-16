@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dotnetCoreProject2/1.0.0": {
+        "dependencies": {
+          "DocumentFormat.OpenXml.DotNet.Core": "1.0.0",
+          "DocumentFormat.OpenXmlSDK": "2.0.0"
+        },
+        "runtime": {
+          "dotnetCoreProject2.dll": {}
+        }
+      },
+      "DocumentFormat.OpenXml.DotNet.Core/1.0.0": {},
+      "DocumentFormat.OpenXmlSDK/2.0.0": {
+        "runtime": {
+          "lib/Net35/DocumentFormat.OpenXml.dll": {
+            "assemblyVersion": "2.0.5022.0",
+            "fileVersion": "2.0.5022.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnetCoreProject2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DocumentFormat.OpenXml.DotNet.Core/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ITugG2Abt/sJ6s9dNFN0yNYduYeo8gyAHkq6nd2HBLa8VTJKLWJXd6U+8dn2LXwKPifFj15wA+mzzhwl09ISTg==",
+      "path": "documentformat.openxml.dotnet.core/1.0.0",
+      "hashPath": "documentformat.openxml.dotnet.core.1.0.0.nupkg.sha512"
+    },
+    "DocumentFormat.OpenXmlSDK/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GmC9om1pmAiOuzBD8a0ZvBUhn2mKwNjLIRo7ceiYCstyHW5ahH7bxZy3fQIsxBgy3ra3ce1STJfcT6/sh3gtlA==",
+      "path": "documentformat.openxmlsdk/2.0.0",
+      "hashPath": "documentformat.openxmlsdk.2.0.0.nupkg.sha512"
+    }
+  }
+}

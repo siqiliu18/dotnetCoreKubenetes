@@ -1,0 +1,12 @@
+/Users/siqiliu/Workspace/dotnetCoreProject2/bin/Debug/netcoreapp2.1/dotnetCoreProject2.deps.json
+/Users/siqiliu/Workspace/dotnetCoreProject2/bin/Debug/netcoreapp2.1/dotnetCoreProject2.runtimeconfig.json
+/Users/siqiliu/Workspace/dotnetCoreProject2/bin/Debug/netcoreapp2.1/dotnetCoreProject2.runtimeconfig.dev.json
+/Users/siqiliu/Workspace/dotnetCoreProject2/bin/Debug/netcoreapp2.1/dotnetCoreProject2.dll
+/Users/siqiliu/Workspace/dotnetCoreProject2/bin/Debug/netcoreapp2.1/dotnetCoreProject2.pdb
+/Users/siqiliu/Workspace/dotnetCoreProject2/obj/Debug/netcoreapp2.1/dotnetCoreProject2.csprojAssemblyReference.cache
+/Users/siqiliu/Workspace/dotnetCoreProject2/obj/Debug/netcoreapp2.1/dotnetCoreProject2.csproj.CoreCompileInputs.cache
+/Users/siqiliu/Workspace/dotnetCoreProject2/obj/Debug/netcoreapp2.1/dotnetCoreProject2.AssemblyInfoInputs.cache
+/Users/siqiliu/Workspace/dotnetCoreProject2/obj/Debug/netcoreapp2.1/dotnetCoreProject2.AssemblyInfo.cs
+/Users/siqiliu/Workspace/dotnetCoreProject2/obj/Debug/netcoreapp2.1/dotnetCoreProject2.dll
+/Users/siqiliu/Workspace/dotnetCoreProject2/obj/Debug/netcoreapp2.1/dotnetCoreProject2.pdb
+/Users/siqiliu/Workspace/dotnetCoreProject2/obj/Debug/netcoreapp2.1/dotnetCoreProject2.genruntimeconfig.cache
