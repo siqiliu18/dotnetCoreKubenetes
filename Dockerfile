@@ -1,5 +1,5 @@
-#FROM mcr.microsoft.com/dotnet/core/sdk:2.1 AS build-env
-FROM microsoft/dotnet:sdk AS build-env
+FROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build-env
+#ROM microsoft/dotnet:sdk AS build-env
 
 # Copy csproj and restore as distinct layers
 #COPY *.csproj ./
@@ -26,7 +26,8 @@ RUN dotnet build "dotnetCoreProject2.csproj" -c Release -o out
 #ENTRYPOINT ["dotnet", "run"]
 
 # Build runtime image
-FROM microsoft/dotnet:aspnetcore-runtime
+#FROM microsoft/dotnet:aspnetcore-runtime
+FROM mcr.microsoft.com/dotnet/core/aspnet:3.1
 WORKDIR /src
 COPY --from=build-env /src/out .
 ENTRYPOINT ["dotnet", "dotnetCoreProject2.dll"]
